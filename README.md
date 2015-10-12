@@ -6,8 +6,9 @@ Participants from [Fellesverkstedet](http://fellesverkstedet) fablab, [Bitraf](h
 
 ## 3d-print attachment for Motoman SK6 robot
 
-* Using Arduino Uno with Teacup firmware
+* Using Arduino Uno with custom [Teacup-based firmware](https://github.com/fellesverkstedet/Teacup_Firmware)
 * QB Extruder
+* Using [yasnac Python tools](https://github.com/fellesverkstedet/yasnac) for controlling robot
 
 ## Universal quickmount for workpiece registration
 
