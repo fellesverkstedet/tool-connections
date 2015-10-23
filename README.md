@@ -12,6 +12,8 @@ Participants from [Fellesverkstedet](http://fellesverkstedet) fablab, [Bitraf](h
 * Using Arduino Uno with custom [Teacup-based firmware](https://github.com/fellesverkstedet/Teacup_Firmware)
 * QB Extruder
 
+### Extruder mods
+
 ![Ninjaflex support mod for QB extruder](./img/qb-ninjaflex-mod.jpg)
 
 ## Universal quickmount for workpiece registration
